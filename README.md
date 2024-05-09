@@ -32,7 +32,3 @@ ros2 run turtlesim turtlesim_node
 ```bash
 ros2 run /your_directory/ros2/workspace turtlesim_controller
 ```
-## Sources
-- [Turtlesim Tutorial](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
-- [Koch curve](https://en.wikipedia.org/wiki/Koch_snowflake)
-- [Logging](https://docs.python.org/3/library/logging.html)
